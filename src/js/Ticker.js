@@ -1,0 +1,3 @@
+var Ticker = function () {
+
+};
